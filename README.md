@@ -12,5 +12,8 @@ We utilized the NetworkX package to construct a weighted undirected graph (G). I
 
 ## Results
 The graph displaying the clusters of collaboration is available in the uploaded files. It provides valuable insights into the collaborative relationships among actors and actresses within Netflix productions.
+![Netflix network](https://github.com/Beh-naz/Netflix-Network-Analysis/assets/141075639/147c3f7e-e780-4f85-b77c-0ee6a076066e)
+
+
 
 Feel free to explore the results and the methodology further to gain a deeper understanding of our analysis.
