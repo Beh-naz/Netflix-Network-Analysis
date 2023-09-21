@@ -3,6 +3,10 @@
 ## Overview
 This project aims to uncover the collaborative dynamics within Netflix productions by analyzing actor and actress collaboration data and clustering content into three distinct groups.
 
+## Dataset
+In this project, I used the dataset netflix_titles uploaded here. The columns of this dataset are "show_id,	type,	title,	director,	cast,	country,	date_added,	release_year,	rating,	duration, listed_in, and	description".
+
+
 ## Methodology
 We utilized the NetworkX package to construct a weighted undirected graph (G). In this graph, nodes represent actors, and edges connect two nodes if the actors have appeared in the same movie or show. The weight of an edge corresponds to the number of shows in which the pair of actors have collaborated.
 
