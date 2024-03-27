@@ -4,7 +4,7 @@
 This project aims to uncover the collaborative dynamics within Netflix productions by analyzing actor and actress collaboration data and clustering content into three distinct groups.
 
 ## Dataset
-In this project, I used the dataset netflix_titles uploaded here. The columns of this dataset are "show_id,	type,	title,	director,	cast,	country,	date_added,	release_year,	rating,	duration, listed_in, and	description".
+In this project, I used the dataset [netflix_titles.csv](https://github.com/Beh-naz/Netflix-Network-Analysis/blob/main/netflix_titles.csv). The columns of this dataset are "show_id,	type,	title,	director,	cast,	country,	date_added,	release_year,	rating,	duration, listed_in, and	description".
 
 
 ## Methodology
